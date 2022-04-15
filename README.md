@@ -71,9 +71,6 @@ This is a Japanese version of Tegra Rcm GUI by eliboa.
 
 There are no major changes to the contents of REDME.md or zip.
 
-2022/04/13 (Japan time)
-
-## 最後に
 雑な翻訳なのは許してください。
 
 基本はreleaseのとこみてください。そこ以外は基本改変しません。
