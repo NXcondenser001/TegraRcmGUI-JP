@@ -11,6 +11,8 @@ rajkostoによるTegraRcmSmashのC++GUI （Nintendo SwitchのFuséeGeléeエク�
 elinoaによるTegraRcmGUIを日本語化したものです。慣れてしまえば困ることはないと思いますが、日本語にして使いやすくしました。
 
 これは、「未対策機」つまり2018年7月より前に製造されたものでのみ機能します。未対策機かどうかを確認するには、https://ismyswitchpatched.com/ を使用します。
+
+※eliboa様（TegraRcmGUI製作者）の確認を取ってあります。
 ## 特徴
 -ペイロードを送信する
 
@@ -34,6 +36,14 @@ elinoaによるTegraRcmGUIを日本語化したものです。慣れてしまえ
 
 <img width="272" alt="スクリーンショット 2022-04-13 195842" src="https://user-images.githubusercontent.com/103568351/163166460-71944b81-2ecb-486f-8a24-9f304b39b075.png"><img width="276" alt="スクリーンショット 2022-04-13 195924" src="https://user-images.githubusercontent.com/103568351/163166377-5d813ecb-b58e-4e4f-b910-4b0550475d38.png">
 
+## 今後の課題
+ログの日本語化
+
+長文の日本語化
+
+RCM画像の日本語差し替え
+
+その他バグなどの修正
 
 ## 注意
 これはwindowsでのみ使用できます。 
@@ -64,6 +74,13 @@ elinoaによるTegraRcmGUIを日本語化したものです。慣れてしまえ
 - [CTCaer](https://github.com/CTCaer/hekate)  / [Hekate](https://github.com/CTCaer/hekate)
 - [Reisyukaku](https://github.com/Reisyukaku/) / [ReiNX](https://github.com/Reisyukaku/ReiNX)
 - [eliboa](https://github.com/eliboa) / [TegraRCMGUI](https://github.com/eliboa/TegraRcmGUI)
+
+## For foreigners
+This is a Japanese version of Tegra Rcm GUI by eliboa.
+
+There are no major changes to the contents of REDME.md or zip.
+
+2022/04/13 (Japan time)
 
 ## 最後に
 雑な翻訳なのは許してください。
