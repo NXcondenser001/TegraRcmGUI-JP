@@ -36,15 +36,6 @@ elinoaによるTegraRcmGUIを日本語化したものです。慣れてしまえ
 
 <img width="272" alt="スクリーンショット 2022-04-13 195842" src="https://user-images.githubusercontent.com/103568351/163166460-71944b81-2ecb-486f-8a24-9f304b39b075.png"><img width="276" alt="スクリーンショット 2022-04-13 195924" src="https://user-images.githubusercontent.com/103568351/163166377-5d813ecb-b58e-4e4f-b910-4b0550475d38.png">
 
-## 今後の課題
-ログの日本語化
-
-長文の日本語化
-
-RCM画像の日本語差し替え
-
-その他バグなどの修正
-
 ## 注意
 これはwindowsでのみ使用できます。 
 ほかのプラットフォームではこれらを使用できます :
